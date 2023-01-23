@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "775976462586",
+    "project_id": "boredapp-b16ae",
+    "storage_bucket": "boredapp-b16ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775976462586:android:bb5e529990085d5459c143",
+        "android_client_info": {
+          "package_name": "com.mycompany.boredapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775976462586-edq6875u81cbdqmmjvjshbaqlofsilbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.boredapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "775976462586-sr0a9cdb78ni7m5vd4pqknq6rg3ncbj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Rn-JlQ5W87euMd7r6AQcQuAqYCXIx5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775976462586-sr0a9cdb78ni7m5vd4pqknq6rg3ncbj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "775976462586-f7hvdhbndub95mj9eqfstq17f5tfp00p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.boredapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
